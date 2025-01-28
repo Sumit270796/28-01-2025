@@ -1,0 +1,1 @@
+newman run Session07.postman_collection.json -d TestData.csv -r htmlextra
